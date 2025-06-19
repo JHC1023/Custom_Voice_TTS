@@ -1,0 +1,100 @@
+filelists/wavs/sentence_1_20250614_210018.wav|경영계획 수립 시 연간 판매계획을 근거하여 기초재고 및 재고계획을 반영한 연간 생산계획을 수립하는 과정이 필요합니다.
+filelists/wavs/sentence_2_20250614_210345.wav|바깥쪽에 그것은 선명하고 깔끔한 가장자리가 가장 깨끗한 면을 만들어 냅니다.
+filelists/wavs/sentence_3_20250614_210418.wav|내가 뛸 때보다 혜인이가 뛰는 모습을 볼 때가 더 긴장되어 손에 땀이 나고 입술을 깨물었습니다.
+filelists/wavs/sentence_4_20250614_210456.wav|곧 빼빼로데이인 만큼 정성을 담은 편지와 함께 만든 빼빼로를 선물해 보는 건 어떨까요?
+filelists/wavs/sentence_5_20250614_210525.wav|쓱싹쓱싹 색칠 과정까지 즐길 수 있어요.
+filelists/wavs/sentence_6_20250614_210541.wav|터널은 인터넷에서 멀티캐스트 트래픽이 비 멀티캐스트 가능 부분을 통과하는 것을 허용합니다.
+filelists/wavs/sentence_7_20250614_210741.wav|제 예약이 중복 예약이 되어 중복으로 예약된 두 번째 예약의 환불을 요청하고자 이렇게 메일로 직접 문의드립니다.
+filelists/wavs/sentence_8_20250614_211006.wav|그래서 걔가 누구한테 얘기했는데?
+filelists/wavs/sentence_9_20250614_211355.wav|그래서 첫째 돼지는 둘째 돼지집으로 가고 둘째 돼지와 첫째 돼지는 셋째 돼지 집으로 갔다.
+filelists/wavs/sentence_10_20250614_211425.wav|사실 이런 강아지들이 훨씬훨씬 훨씬 더 많습니다.
+filelists/wavs/sentence_11_20250614_211509.wav|참고로 이번 주에 보낼 카메라 샘플의 펌웨어는 귀사 전용 펌웨어가 아니고 우리 회사 공용 펌웨어입니다.
+filelists/wavs/sentence_12_20250614_211602.wav|유체 면적과 평균 속도를 곱하여 유체 유동률을 계산합니다.
+filelists/wavs/sentence_13_20250614_211711.wav|소방서에서 왼쪽으로 꺾어 그리고 쭉 갔다가 다시 오른쪽으로 꺾어서 그리고 쭉 가서 은행에서 왼쪽으로 꺾어.
+filelists/wavs/sentence_14_20250614_211757.wav|그건 니몫이 아니라 내 몫이기 때문에 니가 날 도와주지 않는다고 내가 실망할 일은 없을 거야.
+filelists/wavs/sentence_15_20250614_211939.wav|테이블에 앉으셔도 되고 안쪽으로 들어가 편히 앉으셔도 돼요.
+filelists/wavs/sentence_16_20250614_212004.wav|닭장 저쪽 구석에서 닭들의 천적인 수리부엉이 한 마리가 닭 한 마리를 낚아채 여유롭게 먹고 있다.
+filelists/wavs/sentence_17_20250614_212112.wav|당신이 유럽에서 아시아로 삶의 터전을 옮기기에는 위험 부담이 있어요.
+filelists/wavs/sentence_18_20250614_212130.wav|라마준은 얇은 밀가루 반죽 위에 고기를 얇게 펴서 구워낸 음식입니다.
+filelists/wavs/sentence_19_20250614_212335.wav|나의 인생은 외곬길이었다.
+filelists/wavs/sentence_20_20250614_212546.wav|부디 계약 내용을 찬찬히 훑어보시고 서명 후 저희에게 사본을 보내주십시오.
+filelists/wavs/sentence_21_20250614_212602.wav|시인은 당신께서 하신 일들을 기억하며 읊조리고 되뇝니다.
+filelists/wavs/sentence_22_20250614_212653.wav|끓는 육수에 원하는 재료와 소스를 넣고 끓이기만 하면 됩니다.
+filelists/wavs/sentence_23_20250614_212706.wav|빅스비는 전반적인 인지도가 낮은 데다 오류가 잦고 시리 역시 응답률과 정확도가 낮다는 점이 지적을 받는다.
+filelists/wavs/sentence_24_20250614_212947.wav|바퀴벌레가 없는 부엌이야말로 최고의 부엌입니다.
+filelists/wavs/sentence_25_20250614_213143.wav|너희가 가고 싶고 먹고 싶고 하고 싶고 보고 싶은 것이 있다면 나에게 말해줘.
+filelists/wavs/sentence_26_20250614_213215.wav|꺅! 오빠! 안녕하세요. 저 완전 팬이에요!
+filelists/wavs/sentence_27_20250614_213252.wav|너무 외곬으로 고지식한 사람이라 세상 살기 힘들어요.
+filelists/wavs/sentence_28_20250614_213411.wav|당신이 훑어보고 중요한 부분은 다시 설명해 주세요.
+filelists/wavs/sentence_29_20250614_213429.wav|스님이 고인의 옆에서 고인이 부처님의 곁으로 갈 수 있게 경을 읊습니다.
+filelists/wavs/sentence_30_20250614_213611.wav|몇몇 무슬림 사원이 방화 피해를 입었고 몇몇 무슬림들은 어디를 가든 감시당한다고 주장해요.
+filelists/wavs/sentence_31_20250614_213640.wav|할 얘기가 없으니까 친정에서 돈 빼돌렸다는 것밖에는 그래서 우울증으로 죽었다는 것밖에는 할 얘기가 없는 거다.
+filelists/wavs/sentence_32_20250614_213827.wav|당신도 얼른 너의 몫을 해야 할거에요.
+filelists/wavs/sentence_33_20250614_213925.wav|우리가 지난 화요일에 앉았던 테이블에 이번에도 앉고 싶어.
+filelists/wavs/sentence_34_20250614_214034.wav|그래서 자동차도 많지 않고 사람들도 많지 않아.
+filelists/wavs/sentence_35_20250614_214049.wav|너의 고양이 곧 수의사에게 치료받고 언제 아픈지도 모르게 곧 나을 테니 걱정하지 마.
+filelists/wavs/sentence_36_20250614_214231.wav|삶의 놀라움과 다양함 속에서 또 다른 삶이 태어난다.
+filelists/wavs/sentence_37_20250614_214254.wav|얇은 눈꺼풀 사이에 얼마나 넓고 깊은 세상이 있는 걸까.
+filelists/wavs/sentence_38_20250614_214340.wav|엄마가 핥아주지 않으면 오줌과 똥을 싸지도 못한다.
+filelists/wavs/sentence_39_20250614_214419.wav|법조인이 읊조리는 공평무사와 정의가 어디 있는지 의아할 뿐이다.
+filelists/wavs/sentence_40_20250614_214512.wav|뻥 뚫린 가슴을 뻥 뚫린 음악이 메웠다.
+filelists/wavs/sentence_41_20250614_214559.wav|꼬마 생쥐가 부엌을 돌아다니면서 음식과 노는 모습이 귀엽습니다.
+filelists/wavs/sentence_42_20250614_214612.wav|짙푸른 차밭이 끝없이 펼쳐진 이곳은 마치 신이 내린 녹차의 천국 같아.
+filelists/wavs/sentence_43_20250614_214812.wav|이게 그렇게 예쁘지 않다는 것은 알지만 니가 좋아했으면 좋겠고 언젠가 입었으면 좋겠어.
+filelists/wavs/sentence_44_20250614_214842.wav|뭐? 진짜? 종이 영수증을 말하는 건 아니겠지? 요즘 누가 종이 영수증을 다 챙겨가지고 다녀?
+filelists/wavs/sentence_45_20250614_215023.wav|노르웨이나 스웨덴이라고 생각하고 있습니다.
+filelists/wavs/sentence_46_20250614_215106.wav|일정한 전력 공급이 필요하다는 지적도 목표치 조정에 한몫했다.
+filelists/wavs/sentence_47_20250614_215213.wav|닭갈비 전문점에서 뼈 없는 닭갈비와 겨울철에 닭 내장을 맛볼 수 있다.
+filelists/wavs/sentence_48_20250614_215234.wav|여기 계약서 내용 한번 잘 훑어보시고 서명해주시면 됩니다.
+filelists/wavs/sentence_49_20250614_215319.wav|오종혁이 시작하자 조상웅이 합류해 동시에 대사를 읊었다.
+filelists/wavs/sentence_50_20250614_220113.wav|내가 오늘 늦잠을 자서 수업에 늦을 뻔했지만 결국은 수업에 늦지 않게 도착하여 열심히 공부했어요.
+filelists/wavs/sentence_51_20250616_220733.wav|부엌은 일요일에 문 닫습니다.
+filelists/wavs/sentence_52_20250616_220850.wav|안녕하세요! 만나서 반갑습니다! 하고 활짝 웃기!
+filelists/wavs/sentence_53_20250616_221344.wav|니가 걔를 무시하는 거 알면서도 걔가 니 번호를 물어본 거야?
+filelists/wavs/sentence_54_20250616_221512.wav|라인업 선택하는 것은 내가 감당해야 할 몫이다.
+filelists/wavs/sentence_55_20250616_222025.wav|열차 출발 전 먼저 앉으시면 앉아서 가시는 기차입니다.
+filelists/wavs/sentence_56_20250616_222050.wav|젊은이들은 창조하고 창의성은 당신을 젊게 만들어준다.
+filelists/wavs/sentence_57_20250616_222117.wav|겉넓이와 부피의 비가 작을수록 겉넓이가 클수록 더 색이 잘 변해요.
+filelists/wavs/sentence_58_20250616_222154.wav|그는 제 보고서의 내용을 쓱 훑어보았습니다.
+filelists/wavs/sentence_59_20250616_222333.wav|환영사를 읊던 그녀의 눈에 그가 비치자 순간 말문이 막혔다.
+filelists/wavs/sentence_60_20250616_222350.wav|예전에도 얘기했지만 나는 당신과 친구도 싫고 연인관계도 싫어.
+filelists/wavs/sentence_61_20250616_222404.wav|부엌에 전등을 교체하기 위해서 당신의 의자가 필요해요.
+filelists/wavs/sentence_62_20250616_223023.wav|소프트웨어 교육의 중요성이 날로 더해가는데 학생들은 소프트웨어 관련 교육을 쉽게 지루해해요.
+filelists/wavs/sentence_63_20250616_223048.wav|저는 황홀한 풍경에 넋이 나갔습니다.
+filelists/wavs/sentence_64_20250616_223110.wav|돈이 없어서 그냥 쓱 훑어보고 있습니다.
+filelists/wavs/sentence_65_20250616_223142.wav|너도 바쁜데 뭐하러 전화해서 내 연애 스토리를 읊어.
+filelists/wavs/sentence_66_20250616_223327.wav|이건 최소한 몇몇 순수한 이차함수처럼 좋고 최소한 몇몇 순수한 이차함수처럼 안 좋아요.
+filelists/wavs/sentence_67_20250616_223359.wav|그들은 남편이 부엌일을 하는 것을 좋아하지 않습니다.
+filelists/wavs/sentence_68_20250616_223558.wav|사우스캐롤라이나의 찰스턴은 쿠두 커피 앤 크래프트 비어의 오트밀 건포도 쿠키야.
+filelists/wavs/sentence_69_20250616_223630.wav|이 책의 주요 캐릭터는 돼지들인데 첫째 돼지와 둘째 돼지 그리고 셋째 돼지가 있어.
+filelists/wavs/sentence_70_20250616_223643.wav|봄철 낚시를 즐기려는 낚시꾼들이 낚싯대를 드리우고 있다.
+filelists/wavs/sentence_71_20250616_223653.wav|여기에는 인터넷과 스마트폰의 대중화가 큰 몫을 했다.
+filelists/wavs/sentence_72_20250616_223704.wav|우리는 그 곰인형을 벤치 한 가운데에 앉히고 그 양 옆에 우리가 앉았어요.
+filelists/wavs/sentence_73_20250616_223716.wav|그를 믿는 자는 영생을 얻었으니 그를 믿어라.
+filelists/wavs/sentence_74_20250616_223736.wav|젖병등대를 마주 보는 곳에 붉은색의 닭볏등대가 있다.
+filelists/wavs/sentence_75_20250616_223802.wav|요즘 젊은이들은 삶의 의미에 관해 어떻게 생각하는지 궁금해요.
+filelists/wavs/sentence_76_20250616_223818.wav|저는 털이 짧고 피부가 얇아 추위를 많이 탑니다.
+filelists/wavs/sentence_77_20250616_223828.wav|바닥 또한 개들이 핥아도 무해한 항균 제품으로 닦아냈다.
+filelists/wavs/sentence_78_20250616_223839.wav|어떤 사람이 아무 이유 없이 널 싫어하면 싫어할 이유를 알려줘.
+filelists/wavs/sentence_79_20250616_223855.wav|벌레들이 우는 소리를 들으시려면 해 질 녘에 공원에 가세요.
+filelists/wavs/sentence_80_20250616_223919.wav|할머니! 오랜만에 저 왔어요. 할머니 보고 싶었어요!
+filelists/wavs/sentence_81_20250616_223930.wav|하지만 내가 당신에게 물어 봤을 때 혼자 간다고 얘기를 해서 더는 나도 얘기 안 했어요.
+filelists/wavs/sentence_82_20250616_223946.wav|소프트웨어 결제 후 사용하다가 최근에 컴퓨터를 바꿨는데 처음에 받았던 소프트웨어 라이센스 키가 먹히지 않아요.
+filelists/wavs/sentence_83_20250616_224015.wav|방위비분담금은 주한미군 주둔 비용 중 한국이 분담하는 몫을 말한다.
+filelists/wavs/sentence_84_20250616_224026.wav|저는 어제 시험문제를 훑어보았습니다.
+filelists/wavs/sentence_85_20250616_224034.wav|가위를 찾고 있는데 아무리 찾아도 못 찾겠네요.
+filelists/wavs/sentence_86_20250616_224103.wav|서점 안 부엌 딸린 방 한칸이 부부의 신혼집이었다.
+filelists/wavs/sentence_87_20250616_224123.wav|너는 여행 중에 뭐가 제일 기대돼? 음식? 문화 체험? 아니면 호텔?
+filelists/wavs/sentence_88_20250616_224137.wav|좀 전에 내 여권으로 내 몫의 담배는 샀어.
+filelists/wavs/sentence_89_20250616_224159.wav|죄송하지만 자리에 앉아서 관람해 주시겠어요? 뒤에 앉은 관객분들의 시야가 가려져서요.
+filelists/wavs/sentence_90_20250616_224212.wav|저희는 찜닭과 닭볶음탕을 제공합니다.
+filelists/wavs/sentence_91_20250616_224229.wav|당신이 사랑하는 삶을 살고 당신이 사는 삶을 사랑하세요.
+filelists/wavs/sentence_92_20250616_224318.wav|베이스 컬러를 내장된 팁의 넓은 면을 사용하여 눈커플 전체에 얇게 펴 바릅니다.
+filelists/wavs/sentence_93_20250616_224424.wav|지금까지 좁은 지면에서 제자백가 열 명의 주장을 겉핥기식으로 살펴보았다.
+filelists/wavs/sentence_94_20250616_224453.wav|기존 필터는 필터를 공기청정기에서 쉽게 들어 올릴 수 있게 손가락 구멍 두 개가 뚫려있지만 새로 구매한 건 뚫려있지 않습니다.
+filelists/wavs/sentence_95_20250616_224513.wav|십자가 없는 부활이 없듯이 고난 없는 영광은 없습니다.
+filelists/wavs/sentence_96_20250616_224522.wav|부엌세간들을 사려면 어디로 가야 하죠?
+filelists/wavs/sentence_97_20250616_224532.wav|야! 너 주원이 맞지? 혹시 나 기억나? 같은 초등학교!
+filelists/wavs/sentence_98_20250616_224609.wav|저는 대도시의 뺵뺵하게 자리 잡은 건축물들 네온 불빛의 화려함 등에서 영감을 받았습니다.
+filelists/wavs/sentence_99_20250616_224628.wav|다음 스크립트에 따라 쉐입 일부분 또는 모든 쉐입이 바뀝니다.
+filelists/wavs/sentence_100_20250616_224639.wav|그는 카메라 플래시를 받아서 넋이 나간 거야?
